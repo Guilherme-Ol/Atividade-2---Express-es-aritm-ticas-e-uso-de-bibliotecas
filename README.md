@@ -1,1 +1,1 @@
-# Atividade-2---Express-es-aritm-ticas-e-uso-de-bibliotecas
+# Atividade-2---Expressoes-aritmeticas-e-uso-de-bibliotecas
